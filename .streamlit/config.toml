@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#0A3A6A"            # azul-institucional
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#EFF1F3" # cinza-claro
+textColor="#000000"
+font="sans serif"
